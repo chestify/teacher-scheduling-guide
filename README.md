@@ -19,5 +19,5 @@ https://schedulemaker.co/how-to-create-a-class-schedule-for-multiple-students.ht
 ## Related
 
 - Class weekly schedule maker: https://schedulemaker.co/class-weekly-schedule-maker.html  
-- Weekly class schedule generator: https://schedulemaker.co/Weekly-Class-Schedule-Generator.html
+- Weekly class schedule generator: https://schedulemaker.co/weekly-class-schedule-generator.html
  
